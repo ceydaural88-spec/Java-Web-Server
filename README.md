@@ -50,12 +50,3 @@ SOLID Prensipleri: Sunucu dinleme ve istek işleme sorumlulukları SimpleWebServ
 
 
 ---
-
-### Güncellenmiş README.md Dosyasını GitHub'a Yükleme
-
-Dosyayı oluşturup kaydettikten sonra terminalde sırasıyla şu **3 komutu** çalıştırarak GitHub'a gönderebilirsin:
-
-```powershell
-git add README.md
-git commit -m "docs: README.md eklendi"
-git push origin main
